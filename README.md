@@ -3,31 +3,31 @@ This is a simple and intuitive shopping list program written in Python. It helps
 # Project Structure
 The project is divided into three main folders - core, conf, and a folder that contains utils, shopping_list_class, models, and helper.
 
-core:
+- `core`:
 This is where the main logic of the program resides. It contains an app.py file.
 
-conf:
+- `conf`:
 This folder contains configurations and logging settings for the project.
 
-shop(The third folder contains):
+- `shop`(The third folder contains):
 
-  utils:
+  `utils`:
   Utilities and helper functions used throughout the project.
 
-  shopping_list_class: This is the heart of the program, where all shopping list 
+  `shopping_list_class`: This is the heart of the program, where all shopping list 
   functionalities are handled.
 
-  models: Contains data models used in the project.
+  `models`: Contains data models used in the project.
 
-  helper: Additional helper functions to support the main program.
+  `helper`: Additional helper functions to support the main program.
 
 In addition to these folders, there are three main files:
 
-run.py: This is the entry point of the program. To run the program, you would 		need to execute this file.
+- `run.py`: This is the entry point of the program. To run the program, you would 		need to execute this file.
 
-shop_items.csv: This contains the list of items that can be added to the 				shopping list.
+- `shop_items.csv`: This contains the list of items that can be added to the 				shopping list.
 
-gitignore: This file specifies intentionally untracked files that Git should ignore.
+- `gitignore`: This file specifies intentionally untracked files that Git should ignore.
 
 # Getting Started
 To run this application, follow these steps:
@@ -56,10 +56,13 @@ To contribute, follow these steps:
 
 Please adhere to the best practices for coding and ensure that your code is clear and readable. It would be helpful if you could also add comments to your code explaining what it does.
 
+# preview
+<img width="969" alt="shop" src="https://github.com/sajadfalahdost/shoppinglist-bootcamp-django/assets/129892781/d48557c2-5148-4af1-81b7-b2eaa2764eef">
+
 # License
 This project is open-source and available to everyone under the S.A.G.E. team license. Please feel free to use, modify, and distribute it as you see fit.
 
 For any questions or suggestions, please open an issue or submit a pull request.
-# team 
+# team and rules
 
 [.S.A.G.E. Git Policy](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow/).
