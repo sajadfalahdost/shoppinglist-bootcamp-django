@@ -1,0 +1,10 @@
+﻿name ,price,quantity,stock_status,category
+apple,10000,5,TRUE,fruit
+kiwi,20000,3,TRUE,fruit
+banana,30000,4,TRUE,fruit
+orange,2000,2,TRUE,fruit
+cake,40000,5,TRUE,market
+chips,50000,1,TRUE,market
+water,20000,8,TRUE,market
+nuts,10000,0,FALSE,market
+ice cream,25000,0,FALSE,market
